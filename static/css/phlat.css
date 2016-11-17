@@ -298,6 +298,7 @@ pre {
 pre code {
     font-family: Ricty, Osaka-mono, "MS Gothic", monospace;
     font-size: 14px;
+    color: #f8f8f2;
     white-space: pre;
 }
 
