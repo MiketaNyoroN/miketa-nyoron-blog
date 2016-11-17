@@ -1,3 +1,37 @@
 baseurl = "http://miketa.nyoron.jp/"
 title = "三毛田のチラ裏"
+author = "MiketaNyoroN"
 languageCode = "ja-jp"
+theme = "hugo-phlat-theme"
+
+[permalinks]
+  post = "/:year/:month/:filename/"
+  page = "/:slug/"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[params]
+  keywords = ["プログラミング", "IT", "雑記"]
+  description = "なんてことない検証記事だったり、コードだったり、面白かった製品だったりを書いていきます。"
+  favicon = "/img/favicon.png"
+  # google_analytics = "UA-XXXXX-YY"
+  # google_adsense = "ca-pub-XXXXXX"
+  # disqus = "shortname"
+  # google_webmaster = ""
+  # bing_webmaster = ""
+
+[social]
+  twitter = "https://www.twitter.com/MiketaNyoroN"
+  youtube = "https://www.youtube.com/channel/UCGOQsDNj4CYzvVS43zk-K5g"
+
+[[menu.header]]
+  name = "Home"
+  weight = 1
+  url = "/"
+
+[[menu.header]]
+  name = "About"
+  weight = 2
+  url = "/about/"
