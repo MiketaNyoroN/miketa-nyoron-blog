@@ -4,6 +4,10 @@ author = "MiketaNyoroN"
 languageCode = "ja-jp"
 theme = "hugo-phlat-theme"
 
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
+
 [permalinks]
   post = "/:year/:month/:filename/"
   page = "/:slug/"
