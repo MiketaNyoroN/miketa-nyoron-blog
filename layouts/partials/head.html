@@ -21,9 +21,9 @@
         <link rel="icon" type="image/png" href="{{ . }}" sizes="196x196" />
     {{ end }}
     <link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/bootstrap.min.css" />
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/highlightjs-themes/monokai-sublime.css" />
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/font-awesome.min.css" />
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.2.0/styles/monokai-sublime.min.css" />
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/phlat.css" />
     {{ if not (in (printf "%#v" .Site.BaseURL) "localhost") }}
         {{ with .Site.Params.google_adsense }}
