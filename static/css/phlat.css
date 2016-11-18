@@ -317,3 +317,7 @@ pre code {
     font-family: Verdana;
     font-weight: bold
 }
+
+.list-inline>li {
+    margin-right: 5px;
+}
