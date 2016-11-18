@@ -8,7 +8,7 @@ checkout:
 
 dependencies:
   pre:
-    - go get -v github.com/spf13/hugo
+    - go get -v github.com/spf13/hugo github.com/tdewolff/minify/cmd/minify
     - pip install awscli
 
 test:
@@ -19,4 +19,9 @@ deployment:
     production:
         branch: master
         commands:
+            - rm -rf ./public/js ./public/fonts
+            - ls -d ./public/css/* | grep -v -E 'phlat.css$' | xargs rm -r
+            - minify -v -a -r --html-keep-document-tags --match '\.(htm|html)$' -o ./public/ ./public
+            - minify -v -a -r --match '\.xml$' -o ./public/ ./public
+            - minify -v -a -r --match '\.css$' -o ./public/ ./public
             - aws s3 sync ./public/ s3://${s3_bucket}/ --delete --region ${aws_region}
