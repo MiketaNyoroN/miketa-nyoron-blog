@@ -9,7 +9,7 @@ checkout:
 dependencies:
   pre:
     - go get -v github.com/spf13/hugo github.com/tdewolff/minify/cmd/minify
-    - pip install awscli
+    - sudo pip install awscli
 
 test:
   override:
