@@ -36,7 +36,7 @@ date = "2017-01-16T22:35:21+09:00"
 
 ## AF-S NIKKOR 24-70mm f/2.8E ED VR
 
-<a  href="https://www.amazon.co.jp/gp/product/B013DGISBA/ref=as_li_tf_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B013DGISBA&linkCode=as2&tag=mike09-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B013DGISBA&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=mike09-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=mike09-22&l=as2&o=9&a=B013DGISBA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank" href="https://www.amazon.co.jp/gp/product/B013DGISBA/ref=as_li_tf_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B013DGISBA&linkCode=as2&tag=mike09-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B013DGISBA&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=mike09-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=mike09-22&l=as2&o=9&a=B013DGISBA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Nikkor大三元[^1]の標準距離レンズです。VR非搭載のほうは[D4S](http://www.nikon-image.com/products/slr/lineup/d4s/)や[D5](http://www.nikon-image.com/products/slr/lineup/d5/)にくっつけて使用しているプロカメラマンをよく見ますね。
 
@@ -51,7 +51,7 @@ Nikkor大三元[^1]の標準距離レンズです。VR非搭載のほうは[D4S]
 
 ## AF-S NIKKOR 70-200mm f/2.8E FL ED VR
 
-<a  href="https://www.amazon.co.jp/gp/product/B01MCWHKBH/ref=as_li_tf_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B01MCWHKBH&linkCode=as2&tag=mike09-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MCWHKBH&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=mike09-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=mike09-22&l=as2&o=9&a=B01MCWHKBH" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank" href="https://www.amazon.co.jp/gp/product/B01MCWHKBH/ref=as_li_tf_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B01MCWHKBH&linkCode=as2&tag=mike09-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MCWHKBH&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=mike09-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=mike09-22&l=as2&o=9&a=B01MCWHKBH" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 大三​元の望​遠側です。APS-C​にくっつけると105-300m​m f/2.8。
 
@@ -64,7 +64,7 @@ Nikkor大三元[^1]の標準距離レンズです。VR非搭載のほうは[D4S]
 
 ## AF-S NIKKOR 200-500mm f/5.6E ED VR
 
-<a  href="https://www.amazon.co.jp/gp/product/B013DGJ0L2/ref=as_li_tf_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B013DGJ0L2&linkCode=as2&tag=mike09-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B013DGJ0L2&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=mike09-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=mike09-22&l=as2&o=9&a=B013DGJ0L2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank" href="https://www.amazon.co.jp/gp/product/B013DGJ0L2/ref=as_li_tf_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B013DGJ0L2&linkCode=as2&tag=mike09-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B013DGJ0L2&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=mike09-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=mike09-22&l=as2&o=9&a=B013DGJ0L2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 上の2つと違って金環がついていない、超望遠ズームレンズ。
 
@@ -81,7 +81,7 @@ F値を絞ればシャープさも上がるので、望遠側を晴れた日の�
 
 ## AF-S NIKKOR 800mm f/5.6E FL ED VR
 
-<a  href="https://www.amazon.co.jp/gp/product/B00B7FOYXQ/ref=as_li_tf_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B00B7FOYXQ&linkCode=as2&tag=mike09-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00B7FOYXQ&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=mike09-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=mike09-22&l=as2&o=9&a=B00B7FOYXQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank" href="https://www.amazon.co.jp/gp/product/B00B7FOYXQ/ref=as_li_tf_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B00B7FOYXQ&linkCode=as2&tag=mike09-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00B7FOYXQ&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=mike09-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=mike09-22&l=as2&o=9&a=B00B7FOYXQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ラスボス。超望遠800mm単焦点。
 
@@ -102,7 +102,7 @@ F値を絞ればシャープさも上がるので、望遠側を晴れた日の�
 
 ちなみに今現在で、主に使っているレンズは[AF-S NIKKOR 28mm f/1.8G](http://www.nikon-image.com/products/lens/nikkor/af-s_nikkor_28mm_f18g/spec.html)です。
 
-<a  href="https://www.amazon.co.jp/gp/product/B007VGGIRK/ref=as_li_tf_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B007VGGIRK&linkCode=as2&tag=mike09-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007VGGIRK&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=mike09-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=mike09-22&l=as2&o=9&a=B007VGGIRK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank" href="https://www.amazon.co.jp/gp/product/B007VGGIRK/ref=as_li_tf_il?ie=UTF8&camp=247&creative=1211&creativeASIN=B007VGGIRK&linkCode=as2&tag=mike09-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007VGGIRK&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=mike09-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=mike09-22&l=as2&o=9&a=B007VGGIRK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 お手頃な値段、大口径ゆえの明るさ(f/1.8)、そしてナノクリスタルコートを存分に活かせる非常にシャープな描写が魅力です。
 
