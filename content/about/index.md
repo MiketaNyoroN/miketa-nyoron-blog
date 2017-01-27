@@ -49,6 +49,11 @@ Googleが行うアクセス情報の収集方法および利用方法につい�
 
 なお、Google アナリティクスによる情報の収集は[Google アナリティクス オプトアウト アドオン](https://tools.google.com/dlpage/gaoptout)を利用することで拒否することが可能です。
 
+## アフィリエイトのこと
+このブログ(三毛田のチラ裏)は、Amazon.co.jpを宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定されたアフィリエイト宣伝プログラムである、Amazonアソシエイト・プログラムの参加者です。
+
+プライバシーポリシーについては[こちら](http://rcm-uk.amazon.co.uk/e/cm/privacy-policy.html?o=9&rw_useCurrentProtocol=1)をご覧ください。
+
 -----
 
 ## 愚痴
