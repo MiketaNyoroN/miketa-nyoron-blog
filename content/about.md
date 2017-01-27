@@ -1,9 +1,8 @@
 +++
+title = "何ここ誰おま"
 description = "三毛田のチラ裏について"
 author = "MiketaNyoroN"
 date = "2016-11-17T21:51:08+09:00"
-title = "何ここ誰おま"
-
 +++
 
 三毛田にょろんです。  
