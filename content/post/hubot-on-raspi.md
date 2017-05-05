@@ -39,7 +39,7 @@ OSはArch Linux ARMを使ってます。GUIすら入れてないので超軽量�
 Node.jsと、npm(Node.jsのパッケージマネージャー)をインスコします。
 
 ```plain
-# pacman -Ss nodejs npm
+# pacman -S nodejs npm
 ```
 
 Fedora等々のRHEL系だったら下記で。バージョンによっては `--enablerepo=epel` しないとダメかもです。
