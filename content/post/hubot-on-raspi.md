@@ -38,56 +38,56 @@ OSはArch Linux ARMを使ってます。GUIすら入れてないので超軽量�
 
 Node.jsと、npm(Node.jsのパッケージマネージャー)をインスコします。
 
-```
+```plain
 # pacman -Ss nodejs npm
 ```
 
 Fedora等々のRHEL系だったら下記で。バージョンによっては `--enablerepo=epel` しないとダメかもです。
 
-```
+```plain
 # yum install nodejs npm
 ```
 
 Raspbianだと下記の方法かと思います。Debian系はまださっぱりですが。
 
-```
+```plain
 # apt-get install nodejs
 ```
 
 Archだと、インストールが終わったらだいたい最新版です。
 
-```
+```plain
 [nyoron@nyoropi ~]$ node --version
 v7.10.0
 [nyoron@nyoropi ~]$ npm --version
 4.5.0
 ```
 
- 他のディストリだと、Node.jsのバージョンがv6系とかv5系になるかと思いますが、Hubotさんはその辺を気にせず動いてくれるので大丈夫です。v7のほうが動かない罠があったりしますし。
+他のディストリだと、Node.jsのバージョンがv6系とかv5系になるかと思いますが、Hubotさんはその辺を気にせず動いてくれるので大丈夫です。v7のほうが動かない罠があったりしますし。
 
- もし「意地でも最新版にしたい」という方がいれば、[この辺を参考](http://parashuto.com/rriver/tools/updating-node-js-and-npm)にするとアップデートが楽です。
-
-
- ### 使うかもしれないパッケージのインストール
-
- Redisをインスコします。Hubotがなんか記憶するときに使うインメモリDB(Brain)になります。
-
- ```
- # pacman -S redis
- ```
-
- プラグインによってはBrainをガンガン使ったりするので、インストールしておいて損はないでしょう。
-
- ただあんまり使われると困るんですけどね。RasPiのRAMが512MBですし。
+もし「意地でも最新版にしたい」という方がいれば、[この辺を参考](http://parashuto.com/rriver/tools/updating-node-js-and-npm)にするとアップデートが楽です。
 
 
- ### Hubotの下準備
+### 使うかもしれないパッケージのインストール
+
+Redisをインスコします。Hubotがなんか記憶するときに使うインメモリDB(Brain)になります。
+
+```plain
+# pacman -S redis
+```
+
+プラグインによってはBrainをガンガン使ったりするので、インストールしておいて損はないでしょう。
+
+ただあんまり使われると困るんですけどね。RasPiのRAMが512MBですし。
+
+
+### Hubotの下準備
 
 次に、npmをつかってHubotさんをインスコします。
 
 コマンドは下記。公式ドキュメント通りです。
 
-```
+```plain
 # npm install -g yo generator-hubot
 ```
 
@@ -107,7 +107,7 @@ npm installはもともと早くないので、RasPiのCPUだとアニメ1本見
 
 下記コマンドで、Botの名前をつけたディレクトリを作成して、テンプレート的なものを作成します。
 
-```
+```plain
 $ mkdir nyorobot
 $ cd nyorobot
 $ yo hubot
@@ -117,7 +117,7 @@ $ yo hubot
 
 僕はとりあえずTwitterBotっぽいものが欲しかったので、下記のように答えました。
 
-```
+```plain
 ? Owner User <user@example.com>
 ? Bot name NyoroBot
 ? Description etc etc ...
@@ -139,7 +139,7 @@ Bot adapterについては、[この辺を探す](https://hubot.github.com/docs/
 
 まずは、将来的に消え去ってしまう、不要なファイルを消しておきます。
 
-```
+```plain
 $ rm hubot-scripts.json
 ```
 
@@ -147,7 +147,7 @@ $ rm hubot-scripts.json
 
 僕は下記のようになりました。
 
-```
+```json
 [
   "hubot-diagnostics",
   "hubot-help",
@@ -165,7 +165,7 @@ $ rm hubot-scripts.json
 
 `[Botの名前] help` とか `[Botの名前] ping` とか話しかけてみましょう。無機質な返事が返ってきます。
 
-```
+```plain
 $ bin/hubot
 [Fri May 05 2017 16:45:06 GMT+0000 (UTC)] INFO hubot-redis-brain: Using default redis on localhost:6379
 NyoroBot> nyorobot help
