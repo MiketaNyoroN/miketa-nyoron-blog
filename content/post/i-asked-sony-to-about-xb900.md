@@ -12,7 +12,7 @@ categories = [ "音楽", "健忘録" ]
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">こんなにヘッドフォン増やしたっけ…？ってなってる。<br>たまにはおうちの整理しないとね。 <a href="https://t.co/y08LAwcWmB">pic.twitter.com/y08LAwcWmB</a></p>&mdash; 三毛田 にょろん (@MiketaNyoroN) <a href="https://twitter.com/MiketaNyoroN/status/832804528424562688?ref_src=twsrc%5Etfw">2017年2月18日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-数年前にヨドバシで視聴した瞬間に惚れて購入しちゃったのがMDR-XB900なのですが、民生機についてはとっととモデルチェンジしちゃうのがヘッドフォンの性。
+数年前にヨドバシで試聴した瞬間に惚れて購入しちゃったのがMDR-XB900なのですが、民生機についてはとっととモデルチェンジしちゃうのがヘッドフォンの性。
 
 MDR-XB950という後継機っぽいものを見つけましたが、定価がおかしい。
 
