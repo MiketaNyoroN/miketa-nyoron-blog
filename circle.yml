@@ -25,4 +25,4 @@ deployment:
             - minify -v -a -r --html-keep-document-tags --match '\.(htm|html)$' -o ./public/ ./public
             - minify -v -a -r --match '\.xml$' -o ./public/ ./public
             - minify -v -a -r --match '\.css$' -o ./public/ ./public
-            - aws s3 sync ./public/ s3://${s3_bucket}/ --size-only --delete --region ${aws_region}
+            - aws s3 sync ./public/ s3://${s3_bucket}/ --delete --region ${aws_region}
